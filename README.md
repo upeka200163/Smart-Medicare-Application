@@ -65,5 +65,5 @@ This project is licensed under the MIT License.
 - [Firebase](https://firebase.google.com/)
 - [Google Fonts](https://fonts.google.com/)
 
-  ## Contact & Support
+## Contact & Support
 For any inquiries or health-related updates, stay tuned with Smart Medicare! 🏥✨
